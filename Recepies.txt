@@ -4,6 +4,7 @@ Biriyani
 Burger
 Rice and curry
 Mixed rice
+Sushi
 
 
 
